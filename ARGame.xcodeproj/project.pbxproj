@@ -9,13 +9,20 @@
 /* Begin PBXBuildFile section */
 		2A917F28270F304F001227AA /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A917F27270F304F001227AA /* AppDelegate.swift */; };
 		2A917F2A270F304F001227AA /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A917F29270F304F001227AA /* ViewController.swift */; };
-		2A917F2C270F304F001227AA /* Experience.rcproject in Sources */ = {isa = PBXBuildFile; fileRef = 2A917F2B270F304F001227AA /* Experience.rcproject */; };
 		2A917F2F270F304F001227AA /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A917F2D270F304F001227AA /* Main.storyboard */; };
 		2A917F31270F3050001227AA /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 2A917F30270F3050001227AA /* Assets.xcassets */; };
 		2A917F34270F3050001227AA /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 2A917F32270F3050001227AA /* LaunchScreen.storyboard */; };
 		2A917F3E270F3051001227AA /* ARGameTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A917F3D270F3051001227AA /* ARGameTests.swift */; };
 		2A917F48270F3051001227AA /* ARGameUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A917F47270F3051001227AA /* ARGameUITests.swift */; };
 		2A917F4A270F3051001227AA /* ARGameUITestsLaunchTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 2A917F49270F3051001227AA /* ARGameUITestsLaunchTests.swift */; };
+		2A917F5E270F3CF6001227AA /* 05.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 2A917F56270F3CF4001227AA /* 05.usdz */; };
+		2A917F5F270F3CF6001227AA /* 06.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 2A917F57270F3CF4001227AA /* 06.usdz */; };
+		2A917F60270F3CF6001227AA /* 08.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 2A917F58270F3CF5001227AA /* 08.usdz */; };
+		2A917F62270F3CF6001227AA /* 04.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 2A917F5A270F3CF5001227AA /* 04.usdz */; };
+		2A917F65270F3CF6001227AA /* 07.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 2A917F5D270F3CF6001227AA /* 07.usdz */; };
+		2A917F68270F42DB001227AA /* 02.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 2A917F67270F42DB001227AA /* 02.usdz */; };
+		2A917F6B270F43D7001227AA /* 01.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 2A917F69270F43D6001227AA /* 01.usdz */; };
+		2A917F6C270F43D7001227AA /* 03.usdz in Resources */ = {isa = PBXBuildFile; fileRef = 2A917F6A270F43D7001227AA /* 03.usdz */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -39,7 +46,6 @@
 		2A917F24270F304F001227AA /* ARGame.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = ARGame.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A917F27270F304F001227AA /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		2A917F29270F304F001227AA /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
-		2A917F2B270F304F001227AA /* Experience.rcproject */ = {isa = PBXFileReference; lastKnownFileType = file.rcproject; path = Experience.rcproject; sourceTree = "<group>"; };
 		2A917F2E270F304F001227AA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		2A917F30270F3050001227AA /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		2A917F33270F3050001227AA /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -48,6 +54,14 @@
 		2A917F43270F3051001227AA /* ARGameUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = ARGameUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		2A917F47270F3051001227AA /* ARGameUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARGameUITests.swift; sourceTree = "<group>"; };
 		2A917F49270F3051001227AA /* ARGameUITestsLaunchTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ARGameUITestsLaunchTests.swift; sourceTree = "<group>"; };
+		2A917F56270F3CF4001227AA /* 05.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 05.usdz; sourceTree = "<group>"; };
+		2A917F57270F3CF4001227AA /* 06.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 06.usdz; sourceTree = "<group>"; };
+		2A917F58270F3CF5001227AA /* 08.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 08.usdz; sourceTree = "<group>"; };
+		2A917F5A270F3CF5001227AA /* 04.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 04.usdz; sourceTree = "<group>"; };
+		2A917F5D270F3CF6001227AA /* 07.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 07.usdz; sourceTree = "<group>"; };
+		2A917F67270F42DB001227AA /* 02.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 02.usdz; sourceTree = "<group>"; };
+		2A917F69270F43D6001227AA /* 01.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 01.usdz; sourceTree = "<group>"; };
+		2A917F6A270F43D7001227AA /* 03.usdz */ = {isa = PBXFileReference; lastKnownFileType = file.usdz; path = 03.usdz; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,10 +114,10 @@
 			children = (
 				2A917F27270F304F001227AA /* AppDelegate.swift */,
 				2A917F29270F304F001227AA /* ViewController.swift */,
-				2A917F2B270F304F001227AA /* Experience.rcproject */,
 				2A917F2D270F304F001227AA /* Main.storyboard */,
 				2A917F30270F3050001227AA /* Assets.xcassets */,
 				2A917F32270F3050001227AA /* LaunchScreen.storyboard */,
+				2A917F66270F3CFD001227AA /* models */,
 			);
 			path = ARGame;
 			sourceTree = "<group>";
@@ -123,6 +137,21 @@
 				2A917F49270F3051001227AA /* ARGameUITestsLaunchTests.swift */,
 			);
 			path = ARGameUITests;
+			sourceTree = "<group>";
+		};
+		2A917F66270F3CFD001227AA /* models */ = {
+			isa = PBXGroup;
+			children = (
+				2A917F69270F43D6001227AA /* 01.usdz */,
+				2A917F6A270F43D7001227AA /* 03.usdz */,
+				2A917F67270F42DB001227AA /* 02.usdz */,
+				2A917F5A270F3CF5001227AA /* 04.usdz */,
+				2A917F56270F3CF4001227AA /* 05.usdz */,
+				2A917F57270F3CF4001227AA /* 06.usdz */,
+				2A917F5D270F3CF6001227AA /* 07.usdz */,
+				2A917F58270F3CF5001227AA /* 08.usdz */,
+			);
+			path = models;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -229,9 +258,17 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2A917F5E270F3CF6001227AA /* 05.usdz in Resources */,
+				2A917F68270F42DB001227AA /* 02.usdz in Resources */,
+				2A917F5F270F3CF6001227AA /* 06.usdz in Resources */,
 				2A917F34270F3050001227AA /* LaunchScreen.storyboard in Resources */,
+				2A917F60270F3CF6001227AA /* 08.usdz in Resources */,
 				2A917F31270F3050001227AA /* Assets.xcassets in Resources */,
+				2A917F6B270F43D7001227AA /* 01.usdz in Resources */,
 				2A917F2F270F304F001227AA /* Main.storyboard in Resources */,
+				2A917F65270F3CF6001227AA /* 07.usdz in Resources */,
+				2A917F62270F3CF6001227AA /* 04.usdz in Resources */,
+				2A917F6C270F43D7001227AA /* 03.usdz in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -258,7 +295,6 @@
 			files = (
 				2A917F2A270F304F001227AA /* ViewController.swift in Sources */,
 				2A917F28270F304F001227AA /* AppDelegate.swift in Sources */,
-				2A917F2C270F304F001227AA /* Experience.rcproject in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
